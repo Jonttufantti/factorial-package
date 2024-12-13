@@ -1,0 +1,18 @@
+{
+    "name": "factorial-package",
+    "version": "1.0.0",
+    "description": "A function that calculates the factorial of a non-negative integer. The factorial of a number n is the product of all positive integers less than or equal to n. This function supports all valid non-negative integers, and returns 1 for 0! (since by definition, 0! = 1).",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Joona Sandbacka",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jonttufantti/factorial-package.git"
+    }
+}
