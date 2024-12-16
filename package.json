@@ -1,21 +1,26 @@
 {
-  "name": "factorial-package",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "description": "A function that calculates the factorial of a non-negative integer.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Joona Sandbacka",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jonttufantti/factorial-package.git"
-  },
-  "keywords": ["factorial", "math", "utility", "javascript"],
-  "bugs": {
-    "url": "https://github.com/jonttufantti/factorial-package/issues"
-  },
-  "homepage": "https://github.com/jonttufantti/factorial-package#readme"
+    "name": "joonas-factorial-package",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "description": "A function that calculates the factorial of a non-negative integer.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Joona Sandbacka",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonttufantti/factorial-package.git"
+    },
+    "keywords": [
+        "factorial",
+        "math",
+        "utility",
+        "javascript"
+    ],
+    "bugs": {
+        "url": "https://github.com/jonttufantti/factorial-package/issues"
+    },
+    "homepage": "https://github.com/jonttufantti/factorial-package#readme"
 }
